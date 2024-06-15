@@ -1,2 +1,2 @@
 # Miles-to-Kilometers-Converter
-GUI that convers user input of miles to kilometers, outputs result.
+GUI that convers user input of miles to kilometers, outputs result. Uses Tkinter.
